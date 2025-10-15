@@ -8,7 +8,7 @@
 ## :technologist: Membros da equipe
 
 *   **Equipe:** Dev-Connect
-*   *(Adicione aqui: Matrícula, nome e curso dos participantes)*
+*   *(499434 - Antonio Irandilson (Iran) - Sistemas de Informação)*
 
 ## :bulb: Objetivo Geral
 
