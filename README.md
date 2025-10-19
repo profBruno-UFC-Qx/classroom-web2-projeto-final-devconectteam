@@ -12,7 +12,7 @@
 
 ## :bulb: Objetivo Geral
 
-Desenvolver uma aplicação web completa (SPA + API RESTful) que permita aos usuários trocar e doar itens, consolidando os conhecimentos de desenvolvimento full-stack, incluindo arquitetura cliente-servidor, autenticação, comunicação em tempo real e boas práticas de organização de código.
+Desenvolver uma aplicação web completa (SPA + API RESTful) que permita aos usuários trocar e doar itens, consolidando os conhecimentos de desenvolvimento full-stack, incluindo arquitetura cliente-servidor, autenticação, comunicação em tempo real (Opcional) e boas práticas de organização de código.
 
 ## :eyes: Público-Alvo
 
