@@ -27,7 +27,7 @@ O projeto visa promover um consumo mais consciente e sustentável, reduzindo o d
 A aplicação possui 4 tipos de interação, com diferentes níveis de acesso:
 
 1.  **Visitante (Não Logado):** Pode visualizar os itens disponíveis, ver detalhes e navegar pela área pública da plataforma.
-2.  **Usuário Comum (`common`):** Usuário cadastrado que pode gerenciar seus próprios itens (criar, editar, deletar), fazer e receber propostas de troca e usar o chat para negociação.
+2.  **Usuário Comum (`common`):** Usuário cadastrado que pode gerenciar seus próprios itens (criar, editar, deletar), fazer e receber propostas de troca e usar o chat (opcional) para negociação.
 3.  **Usuário Verificado (`verified`):** Um usuário com um selo de confiança, que pode ter benefícios futuros como maior visibilidade ou acesso a funcionalidades exclusivas.
 4.  **Administrador (`admin`):** Possui acesso total à plataforma, incluindo um painel administrativo para gerenciar todos os usuários (alterar papéis, deletar) e itens do sistema.
 
